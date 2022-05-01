@@ -1,3 +1,6 @@
+//https://www.codechef.com/COOK141D/problems/DOUBLEDDIST
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
